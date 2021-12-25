@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fake-airbnb/static/css/main.f3c94e16.css",
+    "main.js": "/react-fake-airbnb/static/js/main.5094e4f0.js",
+    "index.html": "/react-fake-airbnb/index.html",
+    "main.f3c94e16.css.map": "/react-fake-airbnb/static/css/main.f3c94e16.css.map",
+    "main.5094e4f0.js.map": "/react-fake-airbnb/static/js/main.5094e4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c94e16.css",
+    "static/js/main.5094e4f0.js"
+  ]
+}
